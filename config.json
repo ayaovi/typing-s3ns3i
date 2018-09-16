@@ -1,6 +1,5 @@
 {
-	"keys": [
-		{
+	"keys": [{
 			"name": "backquote",
 			"code": 192,
 			"values": ["`", "~"],
@@ -10,8 +9,7 @@
 			},
 			"width": 1,
 			"length": 1
-		},
-		{
+		}, {
 			"name": "digit1",
 			"code": 49,
 			"values": ["1", "!"],
@@ -21,8 +19,7 @@
 			},
 			"width": 1,
 			"length": 1
-		},
-		{
+		}, {
 			"name": "digit2",
 			"code": 50,
 			"values": ["2", "@"],
@@ -32,8 +29,7 @@
 			},
 			"width": 1,
 			"length": 1
-		},
-		{
+		}, {
 			"name": "digit3",
 			"code": 51,
 			"values": ["3", "#"],
@@ -43,8 +39,7 @@
 			},
 			"width": 1,
 			"length": 1
-		},
-		{
+		}, {
 			"name": "digit4",
 			"code": 52,
 			"values": ["4", "$"],
@@ -54,8 +49,7 @@
 			},
 			"width": 1,
 			"length": 1
-		},
-		{
+		}, {
 			"name": "digit5",
 			"code": 53,
 			"values": ["5", "%"],
@@ -65,8 +59,7 @@
 			},
 			"width": 1,
 			"length": 1
-		},
-		{
+		}, {
 			"name": "digit6",
 			"code": 54,
 			"values": ["6", "^"],
@@ -76,8 +69,7 @@
 			},
 			"width": 1,
 			"length": 1
-		},
-		{
+		}, {
 			"name": "digit7",
 			"code": 55,
 			"values": ["7", "&"],
@@ -87,8 +79,7 @@
 			},
 			"width": 1,
 			"length": 1
-		},
-		{
+		}, {
 			"name": "digit8",
 			"code": 56,
 			"values": ["8", "*"],
@@ -98,8 +89,7 @@
 			},
 			"width": 1,
 			"length": 1
-		},
-		{
+		}, {
 			"name": "digit9",
 			"code": 57,
 			"values": ["9", "("],
@@ -109,8 +99,7 @@
 			},
 			"width": 1,
 			"length": 1
-		},
-		{
+		}, {
 			"name": "digit0",
 			"code": 48,
 			"values": ["0", ")"],
@@ -120,8 +109,7 @@
 			},
 			"width": 1,
 			"length": 1
-		},
-		{
+		}, {
 			"name": "minus",
 			"code": 189,
 			"values": ["-", "_"],
@@ -131,8 +119,7 @@
 			},
 			"width": 1,
 			"length": 1
-		},
-		{
+		}, {
 			"name": "digit3",
 			"code": 189,
 			"values": ["=", "+"],
@@ -142,8 +129,7 @@
 			},
 			"width": 1,
 			"length": 1
-		},
-		{
+		}, {
 			"name": "backspace",
 			"code": 8,
 			"values": ["backspace"],
@@ -153,8 +139,7 @@
 			},
 			"width": 1,
 			"length": 1.5
-		},
-		{
+		}, {
 			"name": "tab",
 			"code": 9,
 			"values": ["tab"],
@@ -164,8 +149,7 @@
 			},
 			"width": 1,
 			"length": 1.5
-		},
-		{
+		}, {
 			"name": "keyq",
 			"code": 81,
 			"values": ["q"],
@@ -175,8 +159,7 @@
 			},
 			"width": 1,
 			"length": 1
-		},
-		{
+		}, {
 			"name": "keyw",
 			"code": 87,
 			"values": ["w"],
@@ -186,8 +169,7 @@
 			},
 			"width": 1,
 			"length": 1
-		},
-		{
+		}, {
 			"name": "keye",
 			"code": 69,
 			"values": ["e"],
@@ -197,8 +179,7 @@
 			},
 			"width": 1,
 			"length": 1
-		},
-		{
+		}, {
 			"name": "keyr",
 			"code": 82,
 			"values": ["r"],
@@ -208,8 +189,7 @@
 			},
 			"width": 1,
 			"length": 1
-		},
-		{
+		}, {
 			"name": "keyt",
 			"code": 84,
 			"values": ["t"],
@@ -219,8 +199,7 @@
 			},
 			"width": 1,
 			"length": 1
-		},
-		{
+		}, {
 			"name": "keyy",
 			"code": 89,
 			"values": ["y"],
@@ -230,8 +209,7 @@
 			},
 			"width": 1,
 			"length": 1
-		},
-		{
+		}, {
 			"name": "keyu",
 			"code": 85,
 			"values": ["u"],
@@ -241,8 +219,7 @@
 			},
 			"width": 1,
 			"length": 1
-		},
-		{
+		}, {
 			"name": "keyi",
 			"code": 73,
 			"values": ["i"],
@@ -252,8 +229,7 @@
 			},
 			"width": 1,
 			"length": 1
-		},
-		{
+		}, {
 			"name": "keyo",
 			"code": 79,
 			"values": ["o"],
@@ -263,8 +239,7 @@
 			},
 			"width": 1,
 			"length": 1
-		},
-		{
+		}, {
 			"name": "keyp",
 			"code": 80,
 			"values": ["p"],
@@ -274,8 +249,7 @@
 			},
 			"width": 1,
 			"length": 1
-		},
-		{
+		}, {
 			"name": "bracketleft",
 			"code": 219,
 			"values": ["[", "{"],
@@ -285,19 +259,17 @@
 			},
 			"width": 1,
 			"length": 1
-		},
-		{
+		}, {
 			"name": "bracketright",
 			"code": 221,
-		"values": ["]", "}"],
+			"values": ["]", "}"],
 			"coord": {
 				"x": 12.5,
 				"y": 1
 			},
 			"width": 1,
 			"length": 1
-		},
-		{
+		}, {
 			"name": "backslash",
 			"code": 220,
 			"values": ["\\", "|"],
@@ -307,8 +279,7 @@
 			},
 			"width": 1,
 			"length": 1
-		},
-		{
+		}, {
 			"name": "capslock",
 			"code": 20,
 			"values": ["capslock"],
@@ -318,8 +289,7 @@
 			},
 			"width": 1,
 			"length": 1.75
-		},
-		{
+		}, {
 			"name": "keya",
 			"code": 65,
 			"values": ["a"],
@@ -329,8 +299,7 @@
 			},
 			"width": 1,
 			"length": 1
-		},
-		{
+		}, {
 			"name": "keys",
 			"code": 83,
 			"values": ["s"],
@@ -340,8 +309,7 @@
 			},
 			"width": 1,
 			"length": 1
-		},
-		{
+		}, {
 			"name": "keyd",
 			"code": 68,
 			"values": ["d"],
@@ -351,8 +319,7 @@
 			},
 			"width": 1,
 			"length": 1
-		},
-		{
+		}, {
 			"name": "keyf",
 			"code": 70,
 			"values": ["f"],
@@ -362,8 +329,7 @@
 			},
 			"width": 1,
 			"length": 1
-		},
-		{
+		}, {
 			"name": "keyg",
 			"code": 71,
 			"values": ["g"],
@@ -373,8 +339,7 @@
 			},
 			"width": 1,
 			"length": 1
-		},
-		{
+		}, {
 			"name": "keyh",
 			"code": 72,
 			"values": ["h"],
@@ -384,8 +349,7 @@
 			},
 			"width": 1,
 			"length": 1
-		},
-		{
+		}, {
 			"name": "keyj",
 			"code": 74,
 			"values": ["j"],
@@ -395,8 +359,7 @@
 			},
 			"width": 1,
 			"length": 1
-		},
-		{
+		}, {
 			"name": "keyk",
 			"code": 75,
 			"values": ["k"],
@@ -406,8 +369,7 @@
 			},
 			"width": 1,
 			"length": 1
-		},
-		{
+		}, {
 			"name": "keyl",
 			"code": 76,
 			"values": ["l"],
@@ -417,8 +379,7 @@
 			},
 			"width": 1,
 			"length": 1
-		},
-		{
+		}, {
 			"name": "semicolon",
 			"code": 186,
 			"values": [";", ":"],
@@ -428,8 +389,7 @@
 			},
 			"width": 1,
 			"length": 1
-		},
-		{
+		}, {
 			"name": "quote",
 			"code": 222,
 			"values": ["'", "\""],
@@ -439,8 +399,7 @@
 			},
 			"width": 1,
 			"length": 1
-		},
-		{
+		}, {
 			"name": "enter",
 			"code": 13,
 			"values": ["enter"],
@@ -450,8 +409,7 @@
 			},
 			"width": 1,
 			"length": 1.75
-		},
-		{
+		}, {
 			"name": "shiftleft",
 			"code": 16,
 			"values": ["shift"],
@@ -461,8 +419,7 @@
 			},
 			"width": 1,
 			"length": 2.25
-		},
-		{
+		}, {
 			"name": "keyz",
 			"code": 90,
 			"values": ["z"],
@@ -472,8 +429,7 @@
 			},
 			"width": 1,
 			"length": 1
-		},
-		{
+		}, {
 			"name": "keyx",
 			"code": 88,
 			"values": ["x"],
@@ -483,8 +439,7 @@
 			},
 			"width": 1,
 			"length": 1
-		},
-		{
+		}, {
 			"name": "keyc",
 			"code": 67,
 			"values": ["c"],
@@ -494,8 +449,7 @@
 			},
 			"width": 1,
 			"length": 1
-		},
-		{
+		}, {
 			"name": "keyv",
 			"code": 86,
 			"values": ["v"],
@@ -505,8 +459,7 @@
 			},
 			"width": 1,
 			"length": 1
-		},
-		{
+		}, {
 			"name": "keyb",
 			"code": 66,
 			"values": ["b"],
@@ -516,8 +469,7 @@
 			},
 			"width": 1,
 			"length": 1
-		},
-		{
+		}, {
 			"name": "keyn",
 			"code": 78,
 			"values": ["n"],
@@ -527,8 +479,7 @@
 			},
 			"width": 1,
 			"length": 1
-		},
-		{
+		}, {
 			"name": "keym",
 			"code": 77,
 			"values": ["m"],
@@ -538,8 +489,7 @@
 			},
 			"width": 1,
 			"length": 1
-		},
-		{
+		}, {
 			"name": "comma",
 			"code": 188,
 			"values": [",", "<"],
@@ -549,8 +499,7 @@
 			},
 			"width": 1,
 			"length": 1
-		},
-		{
+		}, {
 			"name": "period",
 			"code": 190,
 			"values": [".", ">"],
@@ -560,8 +509,7 @@
 			},
 			"width": 1,
 			"length": 1
-		},
-		{
+		}, {
 			"name": "slash",
 			"code": 191,
 			"values": ["/", "?"],
@@ -571,8 +519,7 @@
 			},
 			"width": 1,
 			"length": 1
-		},
-		{
+		}, {
 			"name": "shiftright",
 			"code": 16,
 			"values": ["shift"],
@@ -582,8 +529,7 @@
 			},
 			"width": 1,
 			"length": 2.25
-		},
-		{
+		}, {
 			"name": "controlleft",
 			"code": 17,
 			"values": ["ctrl"],
@@ -593,8 +539,7 @@
 			},
 			"width": 1,
 			"length": 1.5
-		},
-		{
+		}, {
 			"name": "altleft",
 			"code": 18,
 			"values": ["alt"],
@@ -604,8 +549,7 @@
 			},
 			"width": 1,
 			"length": 1.25
-		},
-		{
+		}, {
 			"name": "space",
 			"code": 32,
 			"values": ["space"],
@@ -615,8 +559,7 @@
 			},
 			"width": 1,
 			"length": 7
-		},
-		{
+		}, {
 			"name": "altright",
 			"code": 18,
 			"values": ["alt"],
@@ -626,8 +569,7 @@
 			},
 			"width": 1,
 			"length": 1.25
-		},
-		{
+		}, {
 			"name": "controlright",
 			"code": 17,
 			"values": ["ctrl"],
