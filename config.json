@@ -295,7 +295,7 @@
 			"values": ["a"],
 			"coord": {
 				"x": 1.75,
-				"y": 1
+				"y": 2
 			},
 			"width": 1,
 			"length": 1
@@ -305,7 +305,7 @@
 			"values": ["s"],
 			"coord": {
 				"x": 2.75,
-				"y": 1
+				"y": 2
 			},
 			"width": 1,
 			"length": 1
@@ -315,7 +315,7 @@
 			"values": ["d"],
 			"coord": {
 				"x": 3.75,
-				"y": 1
+				"y": 2
 			},
 			"width": 1,
 			"length": 1
@@ -325,7 +325,7 @@
 			"values": ["f"],
 			"coord": {
 				"x": 4.75,
-				"y": 1
+				"y": 2
 			},
 			"width": 1,
 			"length": 1
@@ -335,7 +335,7 @@
 			"values": ["g"],
 			"coord": {
 				"x": 5.75,
-				"y": 1
+				"y": 2
 			},
 			"width": 1,
 			"length": 1
@@ -345,7 +345,7 @@
 			"values": ["h"],
 			"coord": {
 				"x": 6.75,
-				"y": 1
+				"y": 2
 			},
 			"width": 1,
 			"length": 1
@@ -355,7 +355,7 @@
 			"values": ["j"],
 			"coord": {
 				"x": 7.75,
-				"y": 1
+				"y": 2
 			},
 			"width": 1,
 			"length": 1
@@ -365,7 +365,7 @@
 			"values": ["k"],
 			"coord": {
 				"x": 8.75,
-				"y": 1
+				"y": 2
 			},
 			"width": 1,
 			"length": 1
@@ -375,7 +375,7 @@
 			"values": ["l"],
 			"coord": {
 				"x": 9.75,
-				"y": 1
+				"y": 2
 			},
 			"width": 1,
 			"length": 1
@@ -385,7 +385,7 @@
 			"values": [";", ":"],
 			"coord": {
 				"x": 10.75,
-				"y": 1
+				"y": 2
 			},
 			"width": 1,
 			"length": 1
@@ -395,7 +395,7 @@
 			"values": ["'", "\""],
 			"coord": {
 				"x": 11.75,
-				"y": 1
+				"y": 2
 			},
 			"width": 1,
 			"length": 1
@@ -405,7 +405,7 @@
 			"values": ["enter"],
 			"coord": {
 				"x": 12.75,
-				"y": 1
+				"y": 2
 			},
 			"width": 1,
 			"length": 1.75
@@ -415,7 +415,7 @@
 			"values": ["shift"],
 			"coord": {
 				"x": 0,
-				"y": 2
+				"y": 3
 			},
 			"width": 1,
 			"length": 2.25
@@ -425,7 +425,7 @@
 			"values": ["z"],
 			"coord": {
 				"x": 2.25,
-				"y": 2
+				"y": 3
 			},
 			"width": 1,
 			"length": 1
@@ -435,7 +435,7 @@
 			"values": ["x"],
 			"coord": {
 				"x": 3.25,
-				"y": 2
+				"y": 3
 			},
 			"width": 1,
 			"length": 1
@@ -445,7 +445,7 @@
 			"values": ["c"],
 			"coord": {
 				"x": 4.25,
-				"y": 2
+				"y": 3
 			},
 			"width": 1,
 			"length": 1
@@ -455,7 +455,7 @@
 			"values": ["v"],
 			"coord": {
 				"x": 5.25,
-				"y": 2
+				"y": 3
 			},
 			"width": 1,
 			"length": 1
@@ -465,7 +465,7 @@
 			"values": ["b"],
 			"coord": {
 				"x": 6.25,
-				"y": 2
+				"y": 3
 			},
 			"width": 1,
 			"length": 1
@@ -475,7 +475,7 @@
 			"values": ["n"],
 			"coord": {
 				"x": 7.25,
-				"y": 2
+				"y": 3
 			},
 			"width": 1,
 			"length": 1
@@ -485,7 +485,7 @@
 			"values": ["m"],
 			"coord": {
 				"x": 8.25,
-				"y": 2
+				"y": 3
 			},
 			"width": 1,
 			"length": 1
@@ -495,7 +495,7 @@
 			"values": [",", "<"],
 			"coord": {
 				"x": 9.25,
-				"y": 2
+				"y": 3
 			},
 			"width": 1,
 			"length": 1
@@ -505,7 +505,7 @@
 			"values": [".", ">"],
 			"coord": {
 				"x": 10.25,
-				"y": 2
+				"y": 3
 			},
 			"width": 1,
 			"length": 1
@@ -515,7 +515,7 @@
 			"values": ["/", "?"],
 			"coord": {
 				"x": 11.25,
-				"y": 2
+				"y": 3
 			},
 			"width": 1,
 			"length": 1
@@ -525,7 +525,7 @@
 			"values": ["shift"],
 			"coord": {
 				"x": 12.25,
-				"y": 2
+				"y": 3
 			},
 			"width": 1,
 			"length": 2.25
@@ -535,7 +535,7 @@
 			"values": ["ctrl"],
 			"coord": {
 				"x": 0,
-				"y": 3
+				"y": 4
 			},
 			"width": 1,
 			"length": 1.5
@@ -545,7 +545,7 @@
 			"values": ["alt"],
 			"coord": {
 				"x": 2.5,
-				"y": 3
+				"y": 4
 			},
 			"width": 1,
 			"length": 1.25
@@ -555,7 +555,7 @@
 			"values": ["space"],
 			"coord": {
 				"x": 3.75,
-				"y": 3
+				"y": 4
 			},
 			"width": 1,
 			"length": 7
@@ -565,7 +565,7 @@
 			"values": ["alt"],
 			"coord": {
 				"x": 10.75,
-				"y": 3
+				"y": 4
 			},
 			"width": 1,
 			"length": 1.25
@@ -575,7 +575,7 @@
 			"values": ["ctrl"],
 			"coord": {
 				"x": 13,
-				"y": 3
+				"y": 4
 			},
 			"width": 1,
 			"length": 1.5
